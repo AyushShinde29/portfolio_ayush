@@ -360,7 +360,7 @@ html{
 	width: 50%;
 }
 #skills{
-	height: 700px;
+	height: 600px;
 	width: 100%;
 	background-color: white;
 }
@@ -371,7 +371,7 @@ html{
 }
 .tbl tr td{
 	padding: 40px;
-	border-radius: 10px;
+	border-radius: 20px;
 	box-shadow: 0px 0px 5px blueviolet;
 	transition-duration: 1.5s;
 }
